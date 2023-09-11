@@ -1,1 +1,1 @@
-# Road Traffic Accidents Severity Prediction app
+Project 2 Income Inequality Prediction Model
